@@ -1,0 +1,3 @@
+Ivanov;94;35;65
+Petrov;78;96;88
+Sidorov;58;73;62
